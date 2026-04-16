@@ -1,0 +1,15 @@
+[
+  {
+    "id": "605f7181-ef37-4e10-9481-c87417180024",
+    "studentId": "STU002",
+    "studentName": "theanubhav-g",
+    "category": "faculty",
+    "title": "Syllabus not completed on time.",
+    "description": "Syllabus not completed on time.",
+    "status": "in-review",
+    "resolution": null,
+    "createdAt": "2026-04-16T17:36:52.736Z",
+    "updatedAt": "2026-04-16T17:36:52.736Z",
+    "resolvedAt": null
+  }
+]

@@ -1,6 +1,14 @@
 [
   {
-    "id": "ea4a65e9-7166-4fba-83a7-baae166a220e",
+    "id": "admin-001",
+    "email": "admin@studentos.com",
+    "password": "admin123",
+    "role": "admin",
+    "name": "System Administrator",
+    "adminId": "ADM001"
+  },
+  {
+    "id": "user-001",
     "email": "student@studentos.com",
     "password": "student123",
     "role": "student",
@@ -8,11 +16,38 @@
     "studentId": "STU001"
   },
   {
-    "id": "5f89e146-8129-4709-ab9a-165e522cb6c4",
+    "id": "user-002",
     "email": "teacher@studentos.com",
     "password": "teacher123",
     "role": "teacher",
     "name": "Prof. Smith",
     "teacherId": "TCH001"
+  },
+  {
+    "id": "915ac385-7c50-4a60-a4e1-f5ef48cb3fe4",
+    "email": "anubhavgautam2005@gmail.com",
+    "password": "Ti5ltZqW",
+    "role": "student",
+    "name": "theanubhav-g",
+    "studentId": "STU002",
+    "createdAt": "2026-04-16T17:28:10.144Z"
+  },
+  {
+    "id": "95a62658-be6d-45c8-b5c5-6868f02301d5",
+    "email": "madhavsatija8@gmail.com",
+    "password": "tT9RBsMG",
+    "role": "student",
+    "name": "madhavsatija8",
+    "studentId": "STU003",
+    "createdAt": "2026-04-16T17:38:54.750Z"
+  },
+  {
+    "id": "23b354e1-193d-464f-9a76-2b6520102415",
+    "email": "yassubhai094@gmail.com",
+    "password": "MU9KpZR1",
+    "role": "teacher",
+    "name": "Proff. JK Goswami",
+    "teacherId": "TCH002",
+    "createdAt": "2026-04-16T17:44:24.940Z"
   }
 ]

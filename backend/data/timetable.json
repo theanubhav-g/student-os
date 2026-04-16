@@ -1,0 +1,68 @@
+{
+  "lastUpdated": "2026-01-15T10:30:00.000Z",
+  "schedule": [
+    {
+      "day": "Monday",
+      "time": "09:00 AM - 10:00 AM",
+      "subject": "Data Structures",
+      "teacher": "Prof. Smith",
+      "room": "Room 101",
+      "branch": "CSE",
+      "year": "2nd Year"
+    },
+    {
+      "day": "Monday",
+      "time": "10:00 AM - 11:00 AM",
+      "subject": "Algorithms",
+      "teacher": "Prof. Johnson",
+      "room": "Room 102",
+      "branch": "CSE",
+      "year": "2nd Year"
+    },
+    {
+      "day": "Tuesday",
+      "time": "09:00 AM - 10:00 AM",
+      "subject": "Operating Systems",
+      "teacher": "Prof. Williams",
+      "room": "Room 103",
+      "branch": "CSE",
+      "year": "2nd Year"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:00 AM - 12:00 PM",
+      "subject": "Database Management",
+      "teacher": "Prof. Brown",
+      "room": "Room 104",
+      "branch": "CSE",
+      "year": "2nd Year"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:00 AM - 10:00 AM",
+      "subject": "Computer Networks",
+      "teacher": "Prof. Davis",
+      "room": "Room 105",
+      "branch": "CSE",
+      "year": "2nd Year"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:00 AM - 11:00 AM",
+      "subject": "Software Engineering",
+      "teacher": "Prof. Miller",
+      "room": "Room 106",
+      "branch": "CSE",
+      "year": "2nd Year"
+    },
+    {
+      "day": "Friday",
+      "time": "09:00 AM - 10:00 AM",
+      "subject": "Web Development",
+      "teacher": "Prof. Wilson",
+      "room": "Room 107",
+      "branch": "CSE",
+      "year": "2nd Year"
+    }
+  ]
+}
