@@ -1,0 +1,20 @@
+[
+  {
+    "id": "STU001",
+    "name": "Chirayu C",
+    "email": "student@studentos.com",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "achievements": [
+      "Hackathon Winner 2026",
+      "Best Project Award"
+    ],
+    "bio": "Computer Science student passionate about full-stack development.",
+    "year": "1st Year",
+    "major": "Information Technology"
+  }
+]

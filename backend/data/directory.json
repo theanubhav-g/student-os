@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6ecc554f-a451-4c43-b96c-d2d9fd627549",
+    "name": "Alice Johnson",
+    "email": "alice@university.edu",
+    "skills": [
+      "Python",
+      "Data Science",
+      "Machine Learning"
+    ],
+    "year": "3rd Year",
+    "major": "Data Science",
+    "bio": "Passionate about AI and data analytics"
+  },
+  {
+    "id": "a50da988-bb5f-4202-ab8b-3df6eda5e2fa",
+    "name": "Bob Williams",
+    "email": "bob@university.edu",
+    "skills": [
+      "UI/UX",
+      "Figma",
+      "React"
+    ],
+    "year": "2nd Year",
+    "major": "Design",
+    "bio": "Creative designer looking for collaborations"
+  },
+  {
+    "id": "abf77a54-f9a2-4e22-963d-b0e613f3bd97",
+    "name": "Carol Davis",
+    "email": "carol@university.edu",
+    "skills": [
+      "Backend",
+      "Node.js",
+      "Database"
+    ],
+    "year": "4th Year",
+    "major": "Computer Science",
+    "bio": "Full-stack developer experienced in system design"
+  }
+]

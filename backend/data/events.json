@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cc54a108-ce10-4d63-97c9-0c5eb903d394",
+    "title": "Tech Talk: Future of AI",
+    "club": "Computer Science Club",
+    "description": "Industry expert discussing AI trends",
+    "date": "2025-02-20",
+    "time": "3:00 PM",
+    "venue": "Room 101",
+    "registrations": [
+      {
+        "studentId": "STU001",
+        "studentName": "John Student",
+        "rsvpDate": "2026-04-16T12:03:03.175Z"
+      }
+    ]
+  },
+  {
+    "id": "43ca706d-1183-41ea-bb65-9d020fc60227",
+    "title": "Hackathon Kickoff",
+    "club": "Coding Club",
+    "description": "Opening ceremony for annual hackathon",
+    "date": "2025-02-25",
+    "time": "10:00 AM",
+    "venue": "Auditorium",
+    "registrations": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2df89ad9-fd81-40fc-bfb6-23095470310d",
+    "title": "Google Summer of Code 2025",
+    "type": "internship",
+    "description": "Remote internship program for student developers",
+    "deadline": "2025-03-15",
+    "company": "Google",
+    "link": "https://summerofcode.withgoogle.com"
+  },
+  {
+    "id": "9b545a97-24f6-4dee-8934-1d7ae0e46b7e",
+    "title": "National Hackathon 2025",
+    "type": "hackathon",
+    "description": "48-hour coding competition with $10,000 prize",
+    "deadline": "2025-02-28",
+    "organizer": "TechFest",
+    "link": "https://example.com/hackathon"
+  },
+  {
+    "id": "e0b0487b-85b7-4469-ab05-23010c853371",
+    "title": "AI Research Internship",
+    "type": "internship",
+    "description": "Summer research position in machine learning",
+    "deadline": "2025-03-01",
+    "company": "AI Research Lab",
+    "link": "https://example.com/ai-intern"
+  }
+]

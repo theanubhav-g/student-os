@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ea4a65e9-7166-4fba-83a7-baae166a220e",
+    "email": "student@studentos.com",
+    "password": "student123",
+    "role": "student",
+    "name": "John Student",
+    "studentId": "STU001"
+  },
+  {
+    "id": "5f89e146-8129-4709-ab9a-165e522cb6c4",
+    "email": "teacher@studentos.com",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Prof. Smith",
+    "teacherId": "TCH001"
+  }
+]

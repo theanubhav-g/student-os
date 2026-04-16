@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7e3c00e2-8b62-46cf-91e0-b8e6bac3b5c7",
+    "title": "Looking for teammates for AI Hackathon",
+    "description": "Need 2 more members with ML experience",
+    "skillsNeeded": [
+      "Machine Learning",
+      "Python",
+      "TensorFlow"
+    ],
+    "postedBy": "John Student",
+    "contact": "john@university.edu",
+    "createdAt": "2026-04-16T10:28:23.286Z"
+  },
+  {
+    "id": "678a5209-2804-4dcc-9c73-54b4d3572513",
+    "title": "Web Dev Project Team",
+    "description": "Building a full-stack application, need frontend dev",
+    "skillsNeeded": [
+      "React",
+      "Tailwind",
+      "API Integration"
+    ],
+    "postedBy": "Sarah Chen",
+    "contact": "sarah@university.edu",
+    "createdAt": "2026-04-16T10:28:23.286Z"
+  }
+]
